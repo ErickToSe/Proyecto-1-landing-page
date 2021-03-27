@@ -48,7 +48,7 @@ footer {
 }
 
 body{
-  background-image: url(../resource/background.jpg);
+  background-image: url(/resource/background.jpg);
   height: 100%;
   width: 100%;
   background-position: center;
