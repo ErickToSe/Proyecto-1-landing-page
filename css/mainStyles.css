@@ -1,0 +1,75 @@
+* {
+  font-family: Verdana, sans-serif;
+  font-size: 30px;
+  list-style:none;
+}
+
+html{
+  background:rgba(106, 108, 109, 0.5);
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-top: 40px;
+  background-color:rgba(122, 87, 167, 0.4);
+  border: 1px solid black;
+  padding: 30px; 
+}
+
+header {
+  background-color: rgba(107, 198, 226, 0.4);
+}
+
+input.data {
+  background-color: rgba(83, 76, 76, 0.9);
+  padding: 20px;
+  color: white;
+}
+
+input.data::placeholder {
+  color: black;
+}
+
+input.submission {
+  background-color:rgba(13, 112, 119, 0.8);
+  border: 1px solid black;
+  color:white;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
+
+footer {
+  background-color: rgba(125, 147, 153, 0.8);
+  padding: 20px;
+}
+
+body{
+  background-image: url(/resource/background.jpg);
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main {
+  font-size: 32px;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+p.info {
+  font-size: 20px;
+}
+
+#titleList {
+  font-size: 45px;
+}
+
